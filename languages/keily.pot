@@ -1,0 +1,590 @@
+# Copyright (C) 2026 templatesell
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Keily 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/keily\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-24T01:58:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: keily\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Keily"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A WordPress Full Site Editing theme named Keily is designed to take full advantage of WordPress's Full Site Editing capabilities, providing users with extensive control over the entire website layout, design, and content. It enables users to customize and edit every aspect of their website, including headers, footers, sidebars, templates, and individual page elements, without the need for coding or advanced technical skills. The theme empowers users to create unique and visually stunning websites by offering a wide range of customizable blocks, templates, and styling options. With Keily, users can craft a personalized website that reflects their brand while ensuring a seamless and intuitive editing experience. Demo: https://templatesell.net/keily"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "templatesell"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://templatesell.com/"
+msgstr ""
+
+#: functions.php:53
+msgid "Keily Patterns"
+msgstr ""
+
+#: functions.php:70
+msgid "No Outline"
+msgstr ""
+
+#: functions.php:71
+msgid "Drop Shadow"
+msgstr ""
+
+#: functions.php:72
+msgid "Rounded Drop Shadow"
+msgstr ""
+
+#: functions.php:73
+msgid "Rounded"
+msgstr ""
+
+#: functions.php:77
+msgid "No List Style"
+msgstr ""
+
+#: functions.php:78
+msgid "Check List Style"
+msgstr ""
+
+#: functions.php:79
+msgid "Arrow List Style"
+msgstr ""
+
+#: functions.php:80
+msgid "Center, No Style"
+msgstr ""
+
+#: functions.php:81
+msgid "Featured List Style"
+msgstr ""
+
+#: functions.php:85
+msgid "Pill"
+msgstr ""
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr ""
+
+#: patterns/about.php:14
+msgid "- About me"
+msgstr ""
+
+#: patterns/about.php:18
+msgid "WELCOME TO..."
+msgstr ""
+
+#: patterns/about.php:22
+msgid "Born in 2000, AB type living in USA. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our likes."
+msgstr ""
+
+#: patterns/about.php:27
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus sed sit ultrices et sed metus sollicitudin."
+msgstr ""
+
+#: patterns/about.php:32
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+msgstr ""
+
+#: patterns/about.php:37
+#: patterns/banner.php:107
+msgid "Got a Project?"
+msgstr ""
+
+#: patterns/about.php:60
+msgid "10+"
+msgstr ""
+
+#: patterns/about.php:64
+msgid "PROJECTS COMPLETED"
+msgstr ""
+
+#: patterns/about.php:76
+msgid "50+"
+msgstr ""
+
+#: patterns/about.php:80
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:92
+msgid "30+"
+msgstr ""
+
+#: patterns/about.php:96
+msgid "HAPPY CLIENTS"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Hi. I am Keily"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Rendez"
+msgstr ""
+
+#: patterns/banner.php:20
+msgid "I am a Florida based web designer &amp; front‑end developer with&nbsp;10+ years&nbsp;of experience"
+msgstr ""
+
+#: patterns/banner.php:30
+msgid "Full Name"
+msgstr ""
+
+#: patterns/banner.php:34
+msgid "Keily Rendez"
+msgstr ""
+
+#: patterns/banner.php:44
+msgid "Birth Date"
+msgstr ""
+
+#: patterns/banner.php:48
+msgid "07-26-2002"
+msgstr ""
+
+#: patterns/banner.php:58
+msgid "Address"
+msgstr ""
+
+#: patterns/banner.php:62
+msgid "London, United Kingdom"
+msgstr ""
+
+#: patterns/banner.php:72
+msgid "Email"
+msgstr ""
+
+#: patterns/banner.php:76
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/banner.php:86
+msgid "Phone no."
+msgstr ""
+
+#: patterns/banner.php:90
+msgid "+91 987 456 3210"
+msgstr ""
+
+#: patterns/banner.php:111
+msgid "Lets talk"
+msgstr ""
+
+#: patterns/clients.php
+msgctxt "Pattern title"
+msgid "Clients"
+msgstr ""
+
+#: patterns/clients.php:15
+msgid "- CLIENTS"
+msgstr ""
+
+#: patterns/clients.php:19
+msgid "Customers & clients"
+msgstr ""
+
+#: patterns/contact.php
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr ""
+
+#: patterns/contact.php:16
+msgid "- LETS CONNECT"
+msgstr ""
+
+#: patterns/contact.php:20
+msgid "Get in touch"
+msgstr ""
+
+#: patterns/contact.php:24
+msgid "I am currently avaliable to take on new projects, so feel free to send me a message about anything that you want to run past me. You can contact anytime at 24/7"
+msgstr ""
+
+#: patterns/contact.php:29
+msgid "+77 022 444 05 05"
+msgstr ""
+
+#: patterns/contact.php:33
+msgid "support@elisc.com"
+msgstr ""
+
+#: patterns/contact.php:37
+msgid "Ave Street Avenue, New York"
+msgstr ""
+
+#: patterns/contact.php:46
+msgid "Send a message"
+msgstr ""
+
+#: patterns/contact.php:50
+msgid "Tell me what you are working on and what you need. I read everything that comes in and reply within a couple of days."
+msgstr ""
+
+#: patterns/contact.php:55
+msgid "Email me"
+msgstr ""
+
+#: patterns/experience.php
+msgctxt "Pattern title"
+msgid "Experience"
+msgstr ""
+
+#: patterns/experience.php:15
+msgid "- EXPERIENCE"
+msgstr ""
+
+#: patterns/experience.php:19
+msgid "Everything about me!"
+msgstr ""
+
+#: patterns/experience.php:37
+#: patterns/experience.php:71
+#: patterns/experience.php:111
+#: patterns/experience.php:145
+msgid "-2018 - Present"
+msgstr ""
+
+#: patterns/experience.php:41
+#: patterns/experience.php:75
+#: patterns/experience.php:115
+#: patterns/experience.php:149
+msgid "Web Developer"
+msgstr ""
+
+#: patterns/experience.php:49
+#: patterns/experience.php:83
+#: patterns/experience.php:123
+#: patterns/experience.php:157
+msgid "- Google"
+msgstr ""
+
+#: patterns/experience.php:57
+#: patterns/experience.php:91
+#: patterns/experience.php:131
+#: patterns/experience.php:165
+#: patterns/services.php:59
+#: patterns/services.php:83
+#: patterns/services.php:107
+#: patterns/services.php:137
+#: patterns/services.php:161
+#: patterns/services.php:185
+msgid "Website development is the process of building, programming, coding and maintaining websites and web applications."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:15
+msgid "Keily Theme"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Lets embark on a journey to elevate your brand and achieve marketing excellence together."
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:42
+msgid "Web Development"
+msgstr ""
+
+#: patterns/footer.php:46
+#: patterns/services.php:53
+msgid "Web Design"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/footer.php:57
+msgid "Legal"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid "Terms and Conditions"
+msgstr ""
+
+#: patterns/footer.php:70
+msgid "Disclaimer"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "Join Us"
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "All Rights Reserved 2023. Keily Theme : by Template Sell"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/latest-article.php
+msgctxt "Pattern title"
+msgid "Latest Article"
+msgstr ""
+
+#: patterns/latest-article.php:16
+msgid "- Blogs"
+msgstr ""
+
+#: patterns/latest-article.php:20
+msgid "My blog &amp; news"
+msgstr ""
+
+#: patterns/latest-article.php:25
+msgid "Get in Touch"
+msgstr ""
+
+#: patterns/project.php
+msgctxt "Pattern title"
+msgid "Project"
+msgstr ""
+
+#: patterns/project.php:16
+msgid "- Projects"
+msgstr ""
+
+#: patterns/project.php:23
+msgid "Recent completed works"
+msgstr ""
+
+#: patterns/project.php:31
+msgid "email@example.com"
+msgstr ""
+
+#: patterns/project.php:54
+msgid "IT"
+msgstr ""
+
+#: patterns/project.php:58
+msgid "New Technology"
+msgstr ""
+
+#: patterns/project.php:74
+msgid "SEO"
+msgstr ""
+
+#: patterns/project.php:78
+msgid "User Experience"
+msgstr ""
+
+#: patterns/project.php:94
+msgid "QA Services"
+msgstr ""
+
+#: patterns/project.php:98
+msgid "Load &amp; Performance"
+msgstr ""
+
+#: patterns/project.php:122
+msgid "IOS and Android"
+msgstr ""
+
+#: patterns/project.php:126
+msgid "Mobile Application"
+msgstr ""
+
+#: patterns/project.php:142
+msgid "UI/UX"
+msgstr ""
+
+#: patterns/project.php:146
+msgid "Product Design"
+msgstr ""
+
+#: patterns/project.php:162
+msgid "Photography"
+msgstr ""
+
+#: patterns/project.php:166
+msgid "Photo Suite"
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:15
+msgid "- Services"
+msgstr ""
+
+#: patterns/services.php:22
+msgid "My Services"
+msgstr ""
+
+#: patterns/services.php:30
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/services.php:77
+msgid "Content Writing"
+msgstr ""
+
+#: patterns/services.php:101
+msgid "Brand Identity"
+msgstr ""
+
+#: patterns/services.php:131
+msgid "Live Chat"
+msgstr ""
+
+#: patterns/services.php:155
+msgid "After Effect"
+msgstr ""
+
+#: patterns/services.php:179
+msgid "Mobile App"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:16
+msgid "- TESTIMONIAL"
+msgstr ""
+
+#: patterns/testimonial.php:20
+msgid "What clients say?"
+msgstr ""
+
+#: patterns/testimonial.php:41
+#: patterns/testimonial.php:71
+#: patterns/testimonial.php:101
+msgid "Katy Johnson"
+msgstr ""
+
+#: patterns/testimonial.php:45
+#: patterns/testimonial.php:75
+#: patterns/testimonial.php:105
+msgid "User Interface Design"
+msgstr ""
+
+#: patterns/testimonial.php:55
+#: patterns/testimonial.php:85
+#: patterns/testimonial.php:115
+msgid "Comes with global style variations is great for color choice, switching my favourite color with just one click option is great experience!"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: theme.json
+#: styles/blues.json
+#: styles/mauve.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/blues.json
+#: styles/mauve.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+#: styles/blues.json
+#: styles/mauve.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+#: styles/blues.json
+#: styles/mauve.json
+msgctxt "Color name"
+msgid "Default background"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Blog Section Query"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Single"
+msgstr ""
+
+#: styles/blues.json
+msgctxt "Style variation name"
+msgid "Blues"
+msgstr ""
+
+#: styles/mauve.json
+msgctxt "Style variation name"
+msgid "Mauve"
+msgstr ""
