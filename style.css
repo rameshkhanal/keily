@@ -290,15 +290,7 @@ a.comment-reply-link {
 header+div {
   margin-top: 0;
 }
-/* ==========================================================================
-   Block styles
-   --------------------------------------------------------------------------
-   The theme declared ten block styles and registered one: the array holding
-   them was assigned three times over instead of built once, so only the last
-   group reached register_block_style(). Eight of the ten had no CSS either,
-   which would have made them menu entries that changed nothing. These are the
-   eight.
-   ========================================================================== */
+/* Block styles */
 
 /* --- core/button ------------------------------------------------------- */
 
@@ -333,12 +325,7 @@ header+div {
 
 /* --- core/list --------------------------------------------------------- */
 
-/*
- * The markers are drawn with ::before rather than list-style, so they take the
- * text colour of the list and stay legible against any background the user
- * picks. aria-hidden is not available here, so the glyphs are CSS content,
- * which assistive technology does not announce.
- */
+/* Markers are drawn with ::before so they follow the list text colour. */
 .wp-block-list.is-style-list-style-check,
 .wp-block-list.is-style-list-style-arrow,
 .wp-block-list.is-style-list-no-style-center,
